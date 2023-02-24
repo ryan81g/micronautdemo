@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.carsaver.test
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [amazon-api-gateway, annotation-api, app-name, aws-cdk, aws-lambda, aws-v2-sdk, data, data-jpa, dynamodb, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, management, maven, micrometer, micrometer-datadog, netty-server, object-storage-aws, openapi, properties, readme, shade, slf4j-simple, spring, spring-boot, spring-web, swagger-ui, x86]
